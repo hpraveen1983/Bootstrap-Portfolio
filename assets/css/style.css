@@ -1,3 +1,29 @@
-row{
-  background-color: green;
+.row{
+  
+  margin-bottom: 5px;
+  
+  
+}
+
+.col-sm-2 {
+  text-align: center;
+  padding: 15px;
+}
+
+.col-sm-1 {
+  text-align: center;
+  padding: 15px;
+}
+
+.col-sm-12 {
+  text-align: center;
+}
+
+.col-sm-8 {
+    background-color: antiquewhite;
+}
+
+img {
+  float: left;
+  padding: 10px;
 }
