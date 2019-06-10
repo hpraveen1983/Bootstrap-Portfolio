@@ -6,8 +6,9 @@
 }
 
 .col-sm-2 {
-  text-align: center;
+  color: white;
   padding: 15px;
+  font-size: 18px;
 }
 
 .col-sm-1 {
@@ -21,7 +22,7 @@
 }
 
 .col-sm-10 {
-    background-color: burlywood;
+  
 }
 
 img {
