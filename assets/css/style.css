@@ -1,36 +1,27 @@
-.row{
-  
-  margin-bottom: 5px;
-  
-  
-}
-
-.col-sm-2 {
-  color: white;
-  padding: 15px;
-  font-size: 18px;
-}
-
-.col-sm-1 {
+footer {
+  background-color: rgba(179, 175, 175, 0.788);
   text-align: center;
-  padding: 15px;
-}
-
-.col-sm-12 {
-  text-align: center;
-  padding: 25px;
-}
-
-.col-sm-10 {
-  
+  padding: 20px;
+  border-top: 5px solid rgb(18, 155, 155);
+  overflow: hidden;
 }
 
 img {
   float: left;
-  padding: 10px;
 }
 
-.col-sm-8 {
-  background-color: blueviolet;
-  float: right;
+
+.col-sm-2 {
+  padding: 15px;
+  color: white;
+  font-size: 18px;
+}
+
+.rowa {
+  border-bottom: 1px solid black;
+  color: rgb(18, 155, 155);
+}
+
+row {
+  background-color: white;
 }
